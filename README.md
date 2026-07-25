@@ -11,7 +11,6 @@
 <p align="center">
   Excel Developer | VBA | Power Query | Dashboards
 </p>
-
 # 👋 Hi, I'm Otávio Porteiro
 
 💻 Excel Developer focused on automation, dashboards and data analysis.
