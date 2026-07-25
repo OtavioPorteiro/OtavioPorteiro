@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
+<br>
+
+<h1 align="center">
+  Otávio Porteiro
+</h1>
+
+<p align="center">
+  Excel Developer | VBA | Power Query | Dashboards
+</p>
+
 # 👋 Hi, I'm Otávio Porteiro
 
 💻 Excel Developer focused on automation, dashboards and data analysis.
