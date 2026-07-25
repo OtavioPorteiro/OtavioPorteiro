@@ -33,44 +33,9 @@ I create solutions using Excel, VBA and Power Query to improve processes, reduce
 
 ---
 
-## 📂 Featured Projects
-
 ### 📊 Factory Dashboard Generator
 
-Industrial dashboard focused on production analysis, KPIs and data visualization.
+Industrial dashboard developed with Excel and Power Query focused on production analysis, KPI monitoring and data visualization.
 
-**Technologies:**
-Excel • Power Query • Dashboards
-
----
-
-### 🔐 Locker Management System
-
-Management system developed in Excel using VBA to control registrations, movements and reports.
-
-**Technologies:**
-Excel • VBA • Power Query
-
----
-
-### 📧 Outlook Mail Automation
-
-Automation project created to simplify email processes and improve productivity.
-
-**Technologies:**
-Excel • VBA • Outlook
-
----
-
-## 📈 Currently Learning
-
-- Python
-- SQL
-- Data Analytics
-
----
-
-## 📫 Connect with me
-
-LinkedIn:  
-Portfolio:  
+🔗 Repository:
+https://github.com/OtavioPorteiro/Factory-Dashboard-Generator
